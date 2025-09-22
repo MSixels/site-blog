@@ -19,7 +19,7 @@ export const PostCard = () => {
           className="w-full h-40 object-cover object-center"
           />
       </div>
-      {/*Post info*/}
+      {/*Post info*/}  
       <div className="px-2 mt-4 space-y-4">
         <h2 className="text-heading-sm text-gray-100 line-clamp-3">Transformando seu negócio em uma loja virtual</h2>
         <p className="text-gray-300 text-body-sm line-clamp-3">
